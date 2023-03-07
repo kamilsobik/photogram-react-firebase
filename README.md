@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# PhotoGram (React, Firabase)
+
+This is a fully-functional, responsive React JS application displaying instagram-like photo gallery where users can upload and save their images!
+
+[Live demo](https://photogramapp.netlify.app/)
+
+## Concepts & Technologies
+
+ <ul>
+  <li>Firebase Storage to store images</li>
+  <li>Firebase Firestore database to keep track of URLs and give real-time image data </li>
+  <li>React JS</li>
+  <li>Framer Motion for animations</li>
+  </ul>
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -68,4 +83,3 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-# photogram-react-firebase
