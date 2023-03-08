@@ -1,7 +1,6 @@
 import { initializeApp } from "firebase/app";
 import { getFirestore } from "firebase/firestore";
 import { getStorage } from "firebase/storage";
-import env from "react-dotenv";
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
