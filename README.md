@@ -2,7 +2,7 @@
 
 This is a fully-functional, responsive React JS application displaying instagram-like photo gallery where users can upload and save their images!
 
-[Live demo](https://photogramapp.netlify.app/)
+[Live demo](https://photogram-react-firebase2.vercel.app/)
 
 ## Concepts & Technologies
 
